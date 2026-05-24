@@ -157,5 +157,32 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="shahabsl--skirk"></div>
 
+### ShahabSL--Skirk
+
+🔗 [source](https://github.com/ShahabSL/Skirk) – [<code><small>v0.1.55</small></code>](https://github.com/ShahabSL/Skirk/releases/tag/v0.1.55)
+
+| File | Size | Download |
+|------|------|----------|
+| `SHA256SUMS` | 1 KB | [⬇️ Download](https://raw.githubusercontent.com/dotspr/LatestReleaseMirror/main/releases/ShahabSL/Skirk/SHA256SUMS) |
+| `Skirk_linux_x64_portable.zip` | 49.6 MB | [⬇️ Download](https://raw.githubusercontent.com/dotspr/LatestReleaseMirror/main/releases/ShahabSL/Skirk/Skirk_linux_x64_portable.zip) |
+| `Skirk_linux_x64_portable.zip.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/dotspr/LatestReleaseMirror/main/releases/ShahabSL/Skirk/Skirk_linux_x64_portable.zip.sha256) |
+| `Skirk_macos_arm64.app.zip` | 7.0 MB | [⬇️ Download](https://raw.githubusercontent.com/dotspr/LatestReleaseMirror/main/releases/ShahabSL/Skirk/Skirk_macos_arm64.app.zip) |
+| `Skirk_macos_arm64.app.zip.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/dotspr/LatestReleaseMirror/main/releases/ShahabSL/Skirk/Skirk_macos_arm64.app.zip.sha256) |
+| `Skirk_macos_x64.app.zip` | 7.5 MB | [⬇️ Download](https://raw.githubusercontent.com/dotspr/LatestReleaseMirror/main/releases/ShahabSL/Skirk/Skirk_macos_x64.app.zip) |
+| `Skirk_macos_x64.app.zip.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/dotspr/LatestReleaseMirror/main/releases/ShahabSL/Skirk/Skirk_macos_x64.app.zip.sha256) |
+| `Skirk_windows_x64_portable.zip` | 42.5 MB | [⬇️ Download](https://raw.githubusercontent.com/dotspr/LatestReleaseMirror/main/releases/ShahabSL/Skirk/Skirk_windows_x64_portable.zip) |
+| `Skirk_windows_x64_portable.zip.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/dotspr/LatestReleaseMirror/main/releases/ShahabSL/Skirk/Skirk_windows_x64_portable.zip.sha256) |
+| `skirk-android-arm64.apk` | 14.6 MB | [⬇️ Download](https://raw.githubusercontent.com/dotspr/LatestReleaseMirror/main/releases/ShahabSL/Skirk/skirk-android-arm64.apk) |
+| `skirk-android-arm64.apk.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/dotspr/LatestReleaseMirror/main/releases/ShahabSL/Skirk/skirk-android-arm64.apk.sha256) |
+| `skirk-android-arm64-v8a.apk` | 14.6 MB | [⬇️ Download](https://raw.githubusercontent.com/dotspr/LatestReleaseMirror/main/releases/ShahabSL/Skirk/skirk-android-arm64-v8a.apk) |
+| `skirk-android-arm64-v8a.apk.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/dotspr/LatestReleaseMirror/main/releases/ShahabSL/Skirk/skirk-android-arm64-v8a.apk.sha256) |
+| `skirk-android-armeabi-v7a.apk` | 14.8 MB | [⬇️ Download](https://raw.githubusercontent.com/dotspr/LatestReleaseMirror/main/releases/ShahabSL/Skirk/skirk-android-armeabi-v7a.apk) |
+| `skirk-android-armeabi-v7a.apk.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/dotspr/LatestReleaseMirror/main/releases/ShahabSL/Skirk/skirk-android-armeabi-v7a.apk.sha256) |
+| `skirk-android-universal.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/dotspr/LatestReleaseMirror/main/releases/ShahabSL/Skirk/skirk-android-universal.apk) |
+| `skirk-android-universal.apk.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/dotspr/LatestReleaseMirror/main/releases/ShahabSL/Skirk/skirk-android-universal.apk.sha256) |
+| `skirk-linux-amd64.tar.gz` | 4.6 MB | [⬇️ Download](https://raw.githubusercontent.com/dotspr/LatestReleaseMirror/main/releases/ShahabSL/Skirk/skirk-linux-amd64.tar.gz) |
+| `skirk-linux-arm64.tar.gz` | 4.1 MB | [⬇️ Download](https://raw.githubusercontent.com/dotspr/LatestReleaseMirror/main/releases/ShahabSL/Skirk/skirk-linux-arm64.tar.gz) |
+| `skirk-windows-amd64.zip` | 4.6 MB | [⬇️ Download](https://raw.githubusercontent.com/dotspr/LatestReleaseMirror/main/releases/ShahabSL/Skirk/skirk-windows-amd64.zip) |
 <!-- RELEASES_END -->
